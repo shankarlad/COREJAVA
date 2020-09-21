@@ -1,0 +1,5 @@
+26.	Create an array of 17 elements in 5 rows.  And calculate sum of all elements.
+27.	Write a program to fine the smallest and greatest number present in the array of integer type.
+28.	Initialize one String type of array and print the elements using for each loop.
+29.	Write a program to print the total number of one-D arrays in a two-D array and the number of elements in every one-D array present in the two-D arrays.
+30.	Create an integer type 2-D array of size [3X3]. Take the elements from the user and then calculate the sum of the elements present in the diagonal.
