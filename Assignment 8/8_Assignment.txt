@@ -1,0 +1,22 @@
+52.	Input data exactly in the following format, and print sum of all integer values. 
+	“67, 89, 23, 67, 12, 55, 66”.   (Hint use String class split method and Integer class parseInt method) .
+
+53.	Write a program to reverse the given String.
+
+54.	Write a program to count no of words in the String.
+
+55.	Write a program to convert very first character of every word in uppercase in a String.
+
+56.	Write a program to reverse every word of the String.
+
+57.	Store name of weekdays in an array (starting from “Sunday” at 0 index). Ask day position from user
+	and print day name. Handle array index out of bound exception and give proper message if user enter 
+	day index outside range (0-6). 
+
+58.	Create a class Voter(voterId, name, age) with parameterized constructor.  The parameterized constructor 
+	should throw a checked exception if age is less than 18. The message of exception is “invalid age
+	for voter ” 
+
+59.	Create Interface StudentFee and declare following method.  getFee() throws InvalidFeeException. 
+	This method ask fees from user and throws exception if user enters invalid or negative fees Create
+	class Student with members (name, fees) and implement the StudentFee Interface.

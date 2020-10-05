@@ -1,0 +1,13 @@
+50.	Explain the importance of toString() and equals() method of the Object class and override them on 
+	class Employee(empId,name,salary).  a. Create class for main method(say XYZ),and accept five employees 
+	information and store in an array. Also ensure if entered empId already exist or not (use equals method).  
+	b. Display all employee info using toString method.
+
+51.	Create a program that helps banks to maintain records. It should have following facilities. o Anybody 
+	can create current or saving account with following initial information: account number, name, balance,
+	and branch. o display account detail for a particular accounts. o display total money deposited in bank.
+	o allow deposit and  withdrawal in an account  . o for saving account opening balance and minimum 
+	balance must be 5000. o for current account opening balance and minimum balance must be 1000. 
+	o can not withdraw the amount from the account that makes balance less than the minimum balance.
+	 
+52.	Input name of a person and count how many vowels it contains.  Use String class functions. 
